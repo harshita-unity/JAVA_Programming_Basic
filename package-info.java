@@ -1,1 +1,1 @@
-package com.patternsdesign;
+package com.arrays;
